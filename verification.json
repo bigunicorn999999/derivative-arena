@@ -1,0 +1,42 @@
+{
+  "count": 1201,
+  "families": 59,
+  "numericalChecks": 3387,
+  "concepts": {
+    "Simplify first": 73,
+    "Chain rule": 180,
+    "Product rule": 142,
+    "Quotient rule": 142,
+    "Logarithmic differentiation": 143,
+    "Inverse trigonometry": 96,
+    "Trig identities": 36,
+    "Nested radicals": 77,
+    "Mixed rules": 144,
+    "Higher derivatives": 48,
+    "Hyperbolic functions": 48,
+    "Implicit differentiation": 72
+  },
+  "provenance": "Two reported TAMU 2013 examples; all other entries are original parameterized practice. Not an official contest archive. Difficulty labels are editorial estimates.",
+  "sources": [
+    {
+      "title": "TAMU published 2025 rules",
+      "url": "https://artsci.tamu.edu/mathematics/outreach/programs/dirivativebee.html"
+    },
+    {
+      "title": "TAMU 2013 faculty contest report",
+      "url": "https://tamuscience.com/2013/11/13/derivative-bee/"
+    },
+    {
+      "title": "UC Merced derivative/integration bee event page (context only; no questions copied)",
+      "url": "https://appliedmath.ucmerced.edu/integration_bee"
+    }
+  ],
+  "answerForms": {
+    "verifiedForms": 3704,
+    "oldNestedFractionCount": 626,
+    "newNestedFractionCount": 84,
+    "questionsWithAlternatives": 1128,
+    "changedPrimaryAnswers": 743
+  },
+  "answerFormPolicy": "Prefer shorter expressions without nested fractions; provide up to three useful equivalent alternatives. Forms checked symbolically on the stated domain."
+}
